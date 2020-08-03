@@ -1,0 +1,24 @@
+.RowMicuenta{
+    margin: 2rem !important;
+}
+
+
+.formMicuenta{
+    margin-left: 1rem;
+    width: 7.5rem;
+    font-size: 1.5rem;
+    font-weight: 300 !important;
+    color: #191b26;
+
+}
+
+.ColMicuenta h4{
+    color: grey;
+    padding-bottom: 1rem !important;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 2rem !important;
+}
+
+.formMicuentaMP{
+    width: 7rem;
+}

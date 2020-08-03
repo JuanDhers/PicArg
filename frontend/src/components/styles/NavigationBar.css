@@ -1,0 +1,61 @@
+
+.logo{
+    height: 2.5rem;
+}
+
+.inputNav{
+    width: 300px !important;
+    text-align: center !important;
+    align-items: center !important;
+    align-content: center !important;
+    justify-content: center;
+}
+
+.inputNav1{
+    border-top: 1px solid #ced4da !important;
+    border-left: 1px solid #ced4da !important;
+    border-bottom: 1px solid #ced4da !important;
+    border-right: 0px !important; 
+    padding: 1.2rem !important;
+}
+
+.inputNav2{
+    border-top: 1px solid #ced4da !important;
+    border-left: 0px !important;
+    border-bottom: 1px solid #ced4da !important;
+    border-right: 1px solid #ced4da !important;
+    background-color: #ffff;
+    border-radius: 3px;
+}
+
+
+
+.btnLogin{
+    background-color: transparent !important;
+    color:#fff !important;
+    border: none !important;
+    border-radius: 50px !important;
+    margin-left: 10px;
+   
+}
+
+.btnRegistro{
+    background-color: #2b7cbe !important;
+    border-radius: 50px !important;
+    border: 2px solid #fff !important;
+    margin-left: 10px;
+   
+}
+
+.navegador{
+    background-color: #2b7cbe;
+}
+
+
+.navLink{
+    color: #fff !important;
+}
+
+.log{
+    border-radius: 75px !important;
+}

@@ -1,0 +1,71 @@
+.colum{
+padding: 0 !important;
+margin: 0 !important;
+}
+
+.cardImg{
+    padding: 0 !important;
+    border-radius: 0 !important;
+    /* border: 0 !important; */
+    
+}
+
+.cardBodyImg{
+    border: 0 !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+}
+
+.content {
+
+    left: 0;
+    right: 0;
+    bottom: -15px;
+    padding: 10px 10px 8px 6px;
+    transition: .25s;
+    position: absolute !important;
+    width: 98% !important;
+    top:93% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    -ms-transform: translate(-50%, -50%) !important;
+    /* text-transform: uppercase !important; */
+    font-size: 16px !important;
+    color:#fff !important;
+    background: linear-gradient(to top,rgba(0,0,0,.6) 0,rgba(0,0,0,0) 100%) !important;
+    white-space: nowrap !important;
+    overflow: hidden;
+    }
+
+    .overlay{
+        opacity: 0 !important;
+        }
+
+    .wrapper:hover .overlay{
+            opacity: 1 !important;
+            }
+
+.aDeLike{
+    float: right;
+    margin-right:  10px;
+    margin-bottom: 10px;
+
+}
+
+.BtnTrash{
+    float: right;
+    margin-right:  10px;
+    margin-bottom: 50px;
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.BtnEdit{
+    float: right;
+    margin-right:  10px;
+    margin-bottom: 50px;
+    color: green;
+    font-size: 20px;
+    cursor:pointer;
+}

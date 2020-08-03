@@ -1,0 +1,10 @@
+.fondoColor{
+    background: rgb(241,241,241);
+    background: linear-gradient(180deg, rgba(241,241,241,1) 0%,
+    rgba(241,241,241,1) 4%,
+    rgba(255,253,253,1) 9%, 
+    rgba(255,255,255,1) 100%);
+    
+margin: 0 auto !important;
+padding-top: 1rem;
+}
